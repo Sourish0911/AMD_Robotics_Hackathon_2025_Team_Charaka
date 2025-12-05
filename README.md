@@ -18,8 +18,8 @@
 **Delivery URL**
 
 ```text
-•	Dataset URL - [https://huggingface.co/datasets/sourishwicon/AMD_Open_Robotics_2025](https://huggingface.co/datasets/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka) 
-•	Model URL - [https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka](https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka)
+•	Dataset URL - https://huggingface.co/datasets/sourishwicon/AMD_Open_Robotics_2025
+•	Model URL - https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka
 ```
 
 Directory Tree of this repo,
