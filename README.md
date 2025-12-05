@@ -7,7 +7,7 @@
 Members 
 <li>Satwik Arawalli</li>
 <li>Ayesha</li>
-<li>Sourish Chatterjee</li>li
+<li>Sourish Chatterjee</li>
 
 **Summary** <of your task>
 ...
