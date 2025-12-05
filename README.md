@@ -3,7 +3,11 @@
 
 **Title:** AMD_RoboticHackathon2025-[Your Work of Mission2]
 
-**Team:** The name of your Team and Members
+**Team:** Charaka
+Members 
+<li>Satwik Arawalli</li>
+<li>Ayesha</li>
+<li>Sourish Chatterjee</li>li
 
 **Summary** <of your task>
 ...
