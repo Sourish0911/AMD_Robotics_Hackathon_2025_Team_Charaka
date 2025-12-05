@@ -18,7 +18,7 @@
 **Delivery URL**
 
 ```text
-•	Dataset URL - https://huggingface.co/datasets/sourishwicon/AMD_Open_Robotics_2025
+•	Dataset URL - https://huggingface.co/datasets/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka
 •	Model URL - https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka
 ```
 
