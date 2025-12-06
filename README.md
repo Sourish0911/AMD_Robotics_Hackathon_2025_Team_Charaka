@@ -22,6 +22,12 @@
 •	Model URL - https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka
 ```
 
+
+```For Mission 1
+•	Dataset URL - https://huggingface.co/datasets/ayeshahab/blue_marker8
+•	Model URL - https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka_Phase1_blue_makrker
+```
+
 Directory Tree of this repo,
 
 <template>

@@ -1,0 +1,36 @@
+INFO 2025-12-06 04:20:12 db_utils.py:102 [1m[34mLogs will be synced with wandb.[0m
+INFO 2025-12-06 04:20:12 db_utils.py:103 Track this run --> [1m[33mhttps://wandb.ai/Charaka_AMD_Hackathon/lerobot/runs/w2nlgpps[0m
+INFO 2025-12-06 04:20:12 ot_train.py:183 Creating dataset
+info.json: 3.23kB [00:00, 10.2MB/s]                       | 0/4 [00:00<?, ?it/s]
+stats.json: 13.0kB [00:00, 44.1MB/s]                | 0.00/2.31k [00:00<?, ?B/s]
+meta/tasks.parquet: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 2.31k/2.31k [00:00<00:00, 4.64kB/s]
+meta/episodes/chunk-000/file-000.parquet: 100%|â–ˆ| 144k/144k [00:00<00:00, 291kB/
+Fetching 4 files: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 4/4 [00:00<00:00,  5.72it/s]
+.gitattributes: 2.46kB [00:00, 15.1MB/s]                  | 0/9 [00:00<?, ?it/s]
+README.md: 3.72kB [00:00, 11.2MB/s]               | 1/9 [00:00<00:01,  4.76it/s]
+data/chunk-000/file-000.parquet: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 749k/749k [00:00<00:00, 6.09MB/s]
+videos/observation.images.side/chunk-000(â€¦): 100%|â–ˆ| 112M/112M [00:00<00:00, 114
+videos/observation.images.top/chunk-000/(â€¦): 100%|â–ˆ| 145M/145M [00:01<00:00, 108
+Fetching 9 files: 100%|â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ| 9/9 [00:01<00:00,  5.29it/s]
+INFO 2025-12-06 04:20:15 ot_train.py:202 Creating policy1M/145M [00:00<00:07, 16
+INFO 2025-12-06 04:20:16 ot_train.py:247 Creating optimizer and scheduler00, 137
+INFO 2025-12-06 04:20:16 ot_train.py:259 [1m[33mOutput dir:[0m outputs/train/act_so101_3cube_2000steps_blue_marker
+INFO 2025-12-06 04:20:16 ot_train.py:262 cfg.steps=2000 (2K)
+INFO 2025-12-06 04:20:16 ot_train.py:263 dataset.num_frames=15988 (16K)
+INFO 2025-12-06 04:20:16 ot_train.py:264 dataset.num_episodes=30
+INFO 2025-12-06 04:20:16 ot_train.py:267 Effective batch size: 64 x 1 = 64
+INFO 2025-12-06 04:20:16 ot_train.py:268 num_learnable_params=51597190 (52M)
+INFO 2025-12-06 04:20:16 ot_train.py:269 num_total_params=51597190 (52M)
+INFO 2025-12-06 04:20:16 ot_train.py:324 Start offline training on a fixed dataset
+INFO 2025-12-06 04:22:01 ot_train.py:351 step:200 smpl:13K ep:24 epch:0.80 loss:5.401 grdn:78.109 lr:1.0e-05 updt_s:0.503 data_s:0.021
+INFO 2025-12-06 04:29:27 ot_train.py:351 step:400 smpl:26K ep:48 epch:1.60 loss:2.134 grdn:36.929 lr:1.0e-05 updt_s:2.196 data_s:0.032
+INFO 2025-12-06 04:30:24 ot_train.py:351 step:600 smpl:38K ep:72 epch:2.40 loss:1.649 grdn:34.345 lr:1.0e-05 updt_s:0.252 data_s:0.035
+INFO 2025-12-06 04:31:22 ot_train.py:351 step:800 smpl:51K ep:96 epch:3.20 loss:1.320 grdn:31.016 lr:1.0e-05 updt_s:0.252 data_s:0.035
+INFO 2025-12-06 04:32:14 ot_train.py:351 step:1K smpl:64K ep:120 epch:4.00 loss:1.067 grdn:28.637 lr:1.0e-05 updt_s:0.253 data_s:0.011
+INFO 2025-12-06 04:33:12 ot_train.py:351 step:1K smpl:77K ep:144 epch:4.80 loss:0.861 grdn:26.774 lr:1.0e-05 updt_s:0.252 data_s:0.034
+INFO 2025-12-06 04:34:09 ot_train.py:351 step:1K smpl:90K ep:168 epch:5.60 loss:0.701 grdn:24.725 lr:1.0e-05 updt_s:0.252 data_s:0.034
+INFO 2025-12-06 04:35:06 ot_train.py:351 step:2K smpl:102K ep:192 epch:6.40 loss:0.575 grdn:22.147 lr:1.0e-05 updt_s:0.253 data_s:0.033
+INFO 2025-12-06 04:36:03 ot_train.py:351 step:2K smpl:115K ep:216 epch:7.21 loss:0.477 grdn:20.891 lr:1.0e-05 updt_s:0.253 data_s:0.033
+INFO 2025-12-06 04:36:56 ot_train.py:351 step:2K smpl:128K ep:240 epch:8.01 loss:0.402 grdn:19.045 lr:1.0e-05 updt_s:0.253 data_s:0.011
+INFO 2025-12-06 04:36:56 ot_train.py:361 Checkpoint policy after step 2000
+INFO 2025-12-06 04:36:58 ot_train.py:430 End of training
