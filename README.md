@@ -1,19 +1,23 @@
-# AMD_Robotics_Hackathon_2025_[Project Name]
+# AMD_Robotics_Hackathon_2025_[Team Charaka]
 <You coulde use the task you did in Mission2 as the project name, since Mission 1 is unified task for every team>
 
-**Title:** AMD_RoboticHackathon2025-[Your Work of Mission2]
+**Title:** AMD_RoboticHackathon2025-[Color-Aware Bowling Pin Fixer]
 
 **Team:** Charaka
 
 **Members**
 <li>Satwik Arawalli</li>
-<li>Ayesha</li>
 <li>Sourish Chatterjee</li>
+<li>Ayesha</li>
 
 **Summary** <of your task>
 ...
 
-**How To**: <reproduce your work in steps>
+**How To**:
+
+- Set up 3 cameras (a top view, a front view and a wrist-attached camera) along with the SO-101 arms as shown in the figure.
+- Place two bowling pins - one blue and one green in front of the robot, on either side.
+- Run inference using our model 
 
 **Delivery URL**
 
