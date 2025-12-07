@@ -1,0 +1,11 @@
+{"time":"2025-12-07T03:18:33.934165742Z","level":"INFO","msg":"stream: starting","core version":"0.21.4"}
+{"time":"2025-12-07T03:18:34.236966311Z","level":"INFO","msg":"stream: created new stream","id":"hmcrbolk"}
+{"time":"2025-12-07T03:18:34.236986745Z","level":"INFO","msg":"stream: started","id":"hmcrbolk"}
+{"time":"2025-12-07T03:18:34.237003601Z","level":"INFO","msg":"writer: started","stream_id":"hmcrbolk"}
+{"time":"2025-12-07T03:18:34.237043423Z","level":"INFO","msg":"sender: started","stream_id":"hmcrbolk"}
+{"time":"2025-12-07T03:18:34.237220957Z","level":"INFO","msg":"handler: started","stream_id":"hmcrbolk"}
+{"time":"2025-12-07T03:40:06.758688093Z","level":"INFO","msg":"stream: closing","id":"hmcrbolk"}
+{"time":"2025-12-07T03:40:09.391000184Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-07T03:40:09.582950808Z","level":"INFO","msg":"handler: closed","stream_id":"hmcrbolk"}
+{"time":"2025-12-07T03:40:09.583018651Z","level":"INFO","msg":"sender: closed","stream_id":"hmcrbolk"}
+{"time":"2025-12-07T03:40:09.583029277Z","level":"INFO","msg":"stream: closed","id":"hmcrbolk"}

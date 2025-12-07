@@ -1,0 +1,30 @@
+INFO 2025-12-07 03:18:34 db_utils.py:102 [1m[34mLogs will be synced with wandb.[0m
+INFO 2025-12-07 03:18:34 db_utils.py:103 Track this run --> [1m[33mhttps://wandb.ai/Charaka_AMD_Hackathon/lerobot/runs/hmcrbolk[0m
+INFO 2025-12-07 03:18:34 ot_train.py:183 Creating dataset
+INFO 2025-12-07 03:18:34 ot_train.py:202 Creating policy
+INFO 2025-12-07 03:18:35 ot_train.py:247 Creating optimizer and scheduler
+INFO 2025-12-07 03:18:35 ot_train.py:259 [1m[33mOutput dir:[0m outputs/train/2_color_merger_fin_3
+INFO 2025-12-07 03:18:35 ot_train.py:262 cfg.steps=3000 (3K)
+INFO 2025-12-07 03:18:35 ot_train.py:263 dataset.num_frames=31889 (32K)
+INFO 2025-12-07 03:18:35 ot_train.py:264 dataset.num_episodes=15
+INFO 2025-12-07 03:18:35 ot_train.py:267 Effective batch size: 64 x 1 = 64
+INFO 2025-12-07 03:18:35 ot_train.py:268 num_learnable_params=51597190 (52M)
+INFO 2025-12-07 03:18:35 ot_train.py:269 num_total_params=51597190 (52M)
+INFO 2025-12-07 03:18:35 ot_train.py:324 Start offline training on a fixed dataset
+INFO 2025-12-07 03:20:48 ot_train.py:351 step:200 smpl:13K ep:6 epch:0.40 loss:5.631 grdn:85.365 lr:1.0e-05 updt_s:0.634 data_s:0.030
+INFO 2025-12-07 03:22:07 ot_train.py:351 step:400 smpl:26K ep:12 epch:0.80 loss:2.104 grdn:41.274 lr:1.0e-05 updt_s:0.383 data_s:0.014
+INFO 2025-12-07 03:23:43 ot_train.py:351 step:600 smpl:38K ep:18 epch:1.20 loss:1.641 grdn:34.767 lr:1.0e-05 updt_s:0.438 data_s:0.039
+INFO 2025-12-07 03:25:03 ot_train.py:351 step:800 smpl:51K ep:24 epch:1.61 loss:1.307 grdn:30.740 lr:1.0e-05 updt_s:0.384 data_s:0.015
+INFO 2025-12-07 03:26:28 ot_train.py:351 step:1K smpl:64K ep:30 epch:2.01 loss:1.040 grdn:28.071 lr:1.0e-05 updt_s:0.382 data_s:0.046
+INFO 2025-12-07 03:27:48 ot_train.py:351 step:1K smpl:77K ep:36 epch:2.41 loss:0.831 grdn:25.603 lr:1.0e-05 updt_s:0.383 data_s:0.014
+INFO 2025-12-07 03:29:07 ot_train.py:351 step:1K smpl:90K ep:42 epch:2.81 loss:0.670 grdn:23.261 lr:1.0e-05 updt_s:0.384 data_s:0.014
+INFO 2025-12-07 03:30:32 ot_train.py:351 step:2K smpl:102K ep:48 epch:3.21 loss:0.542 grdn:20.812 lr:1.0e-05 updt_s:0.382 data_s:0.039
+INFO 2025-12-07 03:31:51 ot_train.py:351 step:2K smpl:115K ep:54 epch:3.61 loss:0.445 grdn:19.911 lr:1.0e-05 updt_s:0.383 data_s:0.014
+INFO 2025-12-07 03:33:16 ot_train.py:351 step:2K smpl:128K ep:60 epch:4.01 loss:0.374 grdn:18.497 lr:1.0e-05 updt_s:0.383 data_s:0.039
+INFO 2025-12-07 03:34:35 ot_train.py:351 step:2K smpl:141K ep:66 epch:4.42 loss:0.319 grdn:16.404 lr:1.0e-05 updt_s:0.383 data_s:0.014
+INFO 2025-12-07 03:35:55 ot_train.py:351 step:2K smpl:154K ep:72 epch:4.82 loss:0.278 grdn:15.687 lr:1.0e-05 updt_s:0.384 data_s:0.014
+INFO 2025-12-07 03:37:20 ot_train.py:351 step:3K smpl:166K ep:78 epch:5.22 loss:0.249 grdn:15.069 lr:1.0e-05 updt_s:0.382 data_s:0.041
+INFO 2025-12-07 03:38:39 ot_train.py:351 step:3K smpl:179K ep:84 epch:5.62 loss:0.225 grdn:14.270 lr:1.0e-05 updt_s:0.383 data_s:0.014
+INFO 2025-12-07 03:40:05 ot_train.py:351 step:3K smpl:192K ep:90 epch:6.02 loss:0.206 grdn:13.130 lr:1.0e-05 updt_s:0.382 data_s:0.044
+INFO 2025-12-07 03:40:05 ot_train.py:361 Checkpoint policy after step 3000
+INFO 2025-12-07 03:40:06 ot_train.py:430 End of training
