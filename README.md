@@ -20,7 +20,7 @@ Our "Bowling Pin Fixer" robot can lift up fallen bowling pins and place them upr
 - Place two bowling pins - one blue and one green in front of the robot, on either side.
 - Run inference using our model
 
-![Setup](IMG_4282.png) 
+![Setup](IMG_4282.png)
 
 **Delivery URL:**
 
@@ -31,3 +31,7 @@ Our "Bowling Pin Fixer" robot can lift up fallen bowling pins and place them upr
 
 - Dataset URL - https://huggingface.co/datasets/ayeshahab/blue_marker8
 - Model URL - https://huggingface.co/sourishwicon/AMD_Open_Robotics_2025_Team_Charaka_Phase1_blue_makrker
+
+**Demo Video:**
+
+https://drive.google.com/file/d/1RE1xJceVO0dqtqg6kzZnoT6KFTwnNZbw/view?usp=sharing
